@@ -1,4 +1,4 @@
-#SSH Auto Device Configurator
+# SSH Auto Device Configurator
 
 Automatically configure devices over SSH using Netmiko. This script only sends 'show' commands 
 and is not capable of sending 'configuration change commands'. That is because this script is mainly focused on remote 
